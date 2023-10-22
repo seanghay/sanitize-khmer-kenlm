@@ -1,5 +1,7 @@
 ## Sanitize Khmer Censored Text with KenLM
 
+It augments the input text to be multiple possible texts and uses KenLM to get the one with the best score.
+
 [Download Model File](https://huggingface.co/datasets/seanghay/km_large_text/resolve/main/kenlm.bin.zip)
 
 and place it under the current directory.
