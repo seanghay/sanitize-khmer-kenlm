@@ -1,0 +1,4 @@
+numpy
+kenlm
+khmercut
+khmernormalizer
